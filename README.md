@@ -20,7 +20,7 @@ This project is a **simple resume webpage** created using **HTML**. It provides 
 3. Customize the resume content by editing the HTML file as needed.
 
 ## Live Demo
-[Live](https://simple-resume-html.netlify.app/).
+[Live](https://simple-resume-html.netlify.app/)
 
 ## Folder Structure
 ```
